@@ -6,18 +6,6 @@
         {
           "text": "Web Application",
           "path": "Getting-Started.md"
-        },
-        {
-          "text": "Console Application",
-          "path": "Startup-Templates/Console.md"
-        },
-        {
-          "text": "WPF Application",
-          "path": "Startup-Templates/WPF.md"
-        },
-        {
-          "text": "Empty Web Project",
-          "path": "Getting-Started-AspNetCore-Application.md"
         }
       ]
     }
