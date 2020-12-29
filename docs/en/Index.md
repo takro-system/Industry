@@ -1,6 +1,6 @@
 ﻿# Industry Documentation
 
-Industry is an **Total System**.
+Industry is a **Total System**.
 
 ## Getting Started
 
