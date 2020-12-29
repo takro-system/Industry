@@ -2,13 +2,8 @@
   "Languages":[
  	  {
       "DisplayName" : "فارسی",
-      "Code" : "ir",
-      "IsDefault": true
-    },
- 	  {
-      "DisplayName" : "English",
       "Code" : "en",
-      "IsDefault": false
+      "IsDefault": true
     }    
  ]
 }
