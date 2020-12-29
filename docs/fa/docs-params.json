@@ -1,0 +1,12 @@
+{
+  "parameters": [
+    {
+      "name": "UI",
+      "displayName": "UI",
+      "values": {
+        "Windows": "Windows",
+        "Mobile": "Mobile"
+      }
+    },
+  ]
+}
