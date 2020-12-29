@@ -1,1 +1,6 @@
-# نرم افزار یکپارچه مالی و اداری تکرو سیستم
+﻿# Industry Documentation
+
+Industry is a **Total System**.
+
+## Getting Started
+
