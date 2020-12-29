@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "text": "Getting Started",
+      "text": "شروع",
       "items": [
         {
-          "text": "Web Application",
+          "text": "نرم افزار",
           "path": "Getting-Started.md"
         }
       ]
