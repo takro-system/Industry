@@ -1,3 +1,4 @@
+
 {
   "items": [
     {
@@ -334,18 +335,21 @@
               "text": "company information",
               "path": ".md"
             }
+          ]
+        },
+        {
+          "text": "Change logs",
+          "path": ".md",
+          "items": [
+            {
 
-
-
+              "text": "v 1.0.0.13 (2021-03-04)",
+              "path": ".md"
+            }
           ]
         }
 
-
-
       ]
     }
-
-
-
   ]
-} 
+} ] }
