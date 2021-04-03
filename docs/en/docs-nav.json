@@ -1,112 +1,351 @@
 {
-"items": [
-  {
-    "text": "نرم افزار سایمان",
-    "path": ".md",
-    "items": [
-      {
-        "text": "عملیات مالی",
-        "path": ".md"
-      },
-      {
-        "text": "عملیات کالا",
-        "path": ".md"
-      },
-      {
-        "text": "گزارشات مالی",
-        "path": ".md"
-      },
-      {
-        "text": "گزارشات کالا",
-        "path": ".md"
-      },
-      {
-        "text": "تعاریف",
-        "path": ".md"
-      },
-      {
-        "text": "امکانات",
-        "path": ".md"
-      },
-      {
-        "text": "سیستم",
-        "path": ".md"
-      }
-             ]
-  },       
-  {
-    "text": " نرم افزار یکپارچه تکروسیستم ",
-    "path": "Getting-Started.md",
-    "items": [
-      {
-        "text": "حسابداری",
-        "path": ".md"
-      },
+  "items": [
     {
-        "text": "خزانه داری",
-        "path": ".md"
-      },
+      "text": "نرم افزار سایمان",
+      "path": ".md",
+      "items": [
+        {
+          "text": "عملیات مالی",
+          "path": ".md"
+        },
+        {
+          "text": "عملیات کالا",
+          "path": ".md"
+        },
+        {
+          "text": "گزارشات مالی",
+          "path": ".md"
+        },
+        {
+          "text": "گزارشات کالا",
+          "path": ".md"
+        },
+        {
+          "text": "تعاریف",
+          "path": ".md"
+        },
+        {
+          "text": "امکانات",
+          "path": ".md"
+        },
+        {
+          "text": "سیستم",
+          "path": ".md"
+        }
+      ]
+    },
     {
-        "text": "خرید",
-        "path": ".md"
-      },
-      {
-        "text": " انبار",
-        "path": ".md"
-      },
+      "text": " نرم افزار یکپارچه تکروسیستم ",
+      "path": "Getting-Started.md",
+      "items": [
+        {
+          "text": "حسابداری",
+          "path": ".md"
+        },
+        {
+          "text": "خزانه داری",
+          "path": ".md"
+        },
+        {
+          "text": "خرید",
+          "path": ".md"
+        },
+        {
+          "text": " انبار",
+          "path": ".md"
+        },
+        {
+          "text": "تولید",
+          "path": ".md"
+        },
+        {
+          "text": "برنامه ریزی تولید",
+          "path": ".md"
+        },
+        {
+          "text": "تعمیر و نگهداری",
+          "path": ".md"
+        },
+        {
+          "text": "بهای تمام شده",
+          "path": ".md"
+        },
+        {
+          "text": "فروش",
+          "path": ".md"
+        },
+        {
+          "text": "مدیریت کار",
+          "path": ".md"
+        },
+        {
+          "text": "خدمات پس از فروش",
+          "path": ".md"
+        },
+        {
+          "text": "حقوق دستمزد",
+          "path": ".md"
+        },
+        {
+          "text": "اموال",
+          "path": ".md"
+        },
+        {
+          "text": "کنترل کیفی",
+          "path": ".md"
+        },
+        {
+          "text": "تعاریف عمومی",
+          "path": ".md"
+        },
+        {
+          "text": "امکانات",
+          "path": ".md"
+        },
+        {
+          "text": "سیستم",
+          "path": ".md"
+        }
+      ]
+    },
     {
-        "text": "تولید",
-        "path": ".md"
-      },
-    {
-        "text": "برنامه ریزی تولید",
-        "path": ".md"
-      },
-      {
-        "text": "تعمیر و نگهداری",
-        "path": ".md"
-      },
-      {
-        "text": "بهای تمام شده",
-        "path": ".md"
-      },
-    {
-        "text": "فروش",
-        "path": ".md"
-      },
-    {
-        "text": "مدیریت کار",
-        "path": ".md"
-      },
-      {
-        "text": "خدمات پس از فروش",
-        "path": ".md"
-      },
-    {
-        "text": "حقوق دستمزد",
-        "path": ".md"
-      },
-      {
-        "text": "اموال",
-        "path": ".md"
-      },
-      {
-        "text": "کنترل کیفی",
-        "path": ".md"
-      },
-    {
-        "text": "تعاریف عمومی",
-        "path": ".md"
-      },
-      {
-        "text": "امکانات",
-        "path": ".md"
-      },
-    {
-        "text": "سیستم",
-        "path": ".md"
-      }
-    ]
-  }
+      "text": "Project Management",
+      "path": ".md",
+      "items": [
+        {
+          "text": "dashboard",
+          "path": ".md",
+          "items": [
+            {
+              "text": "my to do list",
+              "path": ".md"
+            },
+            {
+              "text": "my tasks list",
+              "path": ".md"
+            },
+            {
+              "text": "my task board",
+              "path": ".md"
+            },
+            {
+              "text": "all task board",
+              "path": ".md"
+            },
+            {
+              "text": "project task tree",
+              "path": ".md"
+            },
+            {
+              "text": "project board",
+              "path": ".md"
+            }
+
+          ]
+        },
+        {
+          "text": "project",
+          "path": ".md",
+          "items": [
+            {
+              "text": "all documents",
+              "path": ".md"
+            },
+            {
+              "text": "all conversation",
+              "path": ".md"
+            },
+            {
+              "text": "all transmittals",
+              "path": ".md"
+            },
+            {
+              "text": "all tasks",
+              "path": ".md"
+            },
+            {
+              "text": "project items priority",
+              "path": ".md"
+            },
+            {
+              "text": "project task sets",
+              "path": ".md"
+            },
+            {
+              "text": "personeel operation status",
+              "path": ".md"
+            },
+            {
+              "text": "search file",
+              "path": ".md"
+            },
+            {
+              "text": "all task",
+              "path": ".md"
+            }
+
+          ]
+        },
+        {
+          "text": "administration",
+          "path": ".md",
+          "items": [
+            {
+              "text": "user and roles",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "role",
+                  "path": ".md"
+                },
+                {
+                  "text": "user",
+                  "path": ".md"
+                }
+              ]
+            },
+            {
+              "text": "personnels",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "positions",
+                  "path": ".md"
+
+                },
+                {
+                  "text": "personnels",
+                  "path": ".md"
+                },
+                {
+                  "text": "personnel users",
+                  "path": ".md"
+                },
+                {
+                  "text": "statute",
+                  "path": ".md"
+                }
+
+              ]
+            },
+            {
+              "text": "location",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "country",
+                  "path": ".md"
+                },
+                {
+                  "text": "state",
+                  "path": ".md"
+                },
+                {
+                  "text": "city",
+                  "path": ".md"
+                },
+                {
+                  "text": "regions",
+                  "path": ".md"
+                }
+
+
+
+              ]
+            },
+            {
+              "text": "customers",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "activity field",
+                  "path": ".md"
+                },
+                {
+                  "text": "address type",
+                  "path": ".md"
+                },
+                {
+                  "text": "contact type",
+                  "path": ".md"
+                },
+                {
+                  "text": "customer",
+                  "path": ".md"
+                }
+              ]
+
+            },
+            {
+              "text": "tasks",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "activity type",
+                  "path": ".md"
+                },
+                {
+                  "text": "task type users",
+                  "path": ".md"
+                },
+                {
+                  "text": "action chain templates",
+                  "path": ".md"
+                }
+
+
+              ]
+            },
+            {
+              "text": "projects",
+              "path": ".md",
+              "items": [
+                {
+                  "text": "document types",
+                  "path": ".md"
+                },
+
+                {
+                  "text": "project item types",
+                  "path": ".md"
+                },
+                {
+                  "text": "tekla domains",
+                  "path": ".md"
+                }
+
+              ]
+            },
+            {
+              "text": "tag",
+              "path": ".md"
+            }
+          ]
+        },
+        {
+          "text": "settings",
+          "path": ".md",
+          "items": [
+            {
+              "text": "change theme",
+              "path": ".md"
+            },
+            {
+              "text": "company information",
+              "path": ".md"
+            }
+
+
+
+          ]
+        }
+
+
+
+      ]
+    }
+
+
+
   ]
-}
+} 
