@@ -149,8 +149,12 @@
           "path": "Project.md",
           "items": [
             {
+              "text": "Project Items",
+              "path": "Project-Items.md"
+            },
+            {
               "text": "all documents",
-              "path": ".md"
+              "path": "Project-Document.md"
             },
             {
               "text": "all conversation",
@@ -158,7 +162,7 @@
             },
             {
               "text": "all transmittals",
-              "path": ".md"
+              "path": "Project-Transmittal.md"
             },
             {
               "text": "all tasks",
