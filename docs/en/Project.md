@@ -8,14 +8,14 @@ To define the project includes the following fields.
 * Domain Setting
 The location of the physical files of the Projects. If this field is empty, frpm Administrator/Project/Tekla Domain must be defined. This field is required.
 
-* Execution File
+* Execution File:
 ???
 
 
-* Customer
+* Customer:
 The name of the company or person associated with the project in which the cooperation agreement is concluded.
 
-* Contacts
+* Contacts:
 Contact number of the person who collaborates on the project.
 
 * Sub Customer Name
@@ -29,18 +29,18 @@ Contact number of the person who collaborates on the project.
 
 * Project No
 
-* Project Nanager
+* Project Nanager:
 
 The project manager is defined from all the users who work with the software from the  Administration/User&Role/User section is defined.
 
-* Address
+* Address:
 ???
 
-*  Description
+*  Description:
 Description of project
 
-* Started Date
+* Started Date:
 Date of project cooperation contract
 
-* Started At
+* Started At:
 Time of project cooperation contract
