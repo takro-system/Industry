@@ -329,7 +329,7 @@
           "items": [
             {
               "text": "change theme",
-              "path": "Change-Theme.md"
+              "path": ".md"
             },
             {
               "text": "company information",
