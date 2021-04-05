@@ -8,7 +8,7 @@ The change logs in this page are just a summary of major changes. Detailed relea
 
 The image below shows the version number and Its date:
 
-<image alt="Version" source="" class="img-thumbnail" src="images/ReleaseVersion.png">
+<image alt="Version" source="" class="img-thumbnail" src="images/ReleaseVersion.png" />
 
 ## 1.0.0.14 (2021-05-04)
 
