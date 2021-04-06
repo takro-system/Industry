@@ -119,11 +119,11 @@
           "items": [
             {
               "text": "my to do list",
-              "path": ".md"
+              "path": "My-To-Do-List.md"
             },
             {
               "text": "my tasks list",
-              "path": ".md"
+              "path": "My-Task-List.md"
             },
             {
               "text": "my task board",
@@ -165,8 +165,8 @@
               "path": "Project-Transmittal.md"
             },
             {
-              "text": "all tasks",
-              "path": ".md"
+              "text": "project tasks",
+              "path": "Project-Task.md"
             },
             {
               "text": "project items priority",
@@ -181,12 +181,12 @@
               "path": ".md"
             },
             {
-              "text": "search file",
+              "text": "search documents",
               "path": ".md"
             },
             {
               "text": "all task",
-              "path": ".md"
+              "path": "All-Task.md"
             }
 
           ]
@@ -239,19 +239,19 @@
               "items": [
                 {
                   "text": "country",
-                  "path": ".md"
+                  "path": "Country.md"
                 },
                 {
                   "text": "state",
-                  "path": ".md"
+                  "path": "State.md"
                 },
                 {
                   "text": "city",
-                  "path": ".md"
+                  "path": "City.md"
                 },
                 {
                   "text": "regions",
-                  "path": ".md"
+                  "path": "Region.md"
                 }
 
 
@@ -287,15 +287,15 @@
               "items": [
                 {
                   "text": "activity type",
-                  "path": ".md"
+                  "path": "Activity-Type.md"
                 },
                 {
                   "text": "task type users",
-                  "path": ".md"
+                  "path": "Task-Type-Users.md"
                 },
                 {
                   "text": "action chain templates",
-                  "path": ".md"
+                  "path": "Action-Chain-Template.md"
                 }
 
 
@@ -307,12 +307,12 @@
               "items": [
                 {
                   "text": "document types",
-                  "path": ".md"
+                  "path": "Document-Type.md"
                 },
 
                 {
                   "text": "project item types",
-                  "path": ".md"
+                  "path": "Project-Item-Type.md"
                 },
                 {
                   "text": "tekla domains",
@@ -323,7 +323,7 @@
             },
             {
               "text": "tag",
-              "path": ".md"
+              "path": "Tag.md"
             }
           ]
         },
