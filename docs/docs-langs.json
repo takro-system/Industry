@@ -1,9 +1,14 @@
 {
   "Languages":[
- 	  {
-      "DisplayName" : "فارسی",
-      "Code" : "en",
+    {
+      "DisplayName": "English",
+      "Code": "en",
       "IsDefault": true
+    },
+    {
+      "DisplayName": "فارسی",
+      "Code": "fa",
+      "IsDefault": false
     }    
  ]
 }
