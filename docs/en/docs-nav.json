@@ -3,7 +3,7 @@
   "items": [
     {
       "text": "Project Management",
-      "path": "Project-Management.md",
+      "path": "/ProjectManagement/Projects/Project-Management.md",
       "items": [
         {
           "text": "dashboard",
@@ -11,29 +11,28 @@
           "items": [
             {
               "text": "my to do list",
-              "path": "My-To-Do-List.md"
+              "path": "/ProjectManagement/Administration/My-To-Do-List.md"
             },
             {
               "text": "my tasks list",
-              "path": "My-Task-List.md"
+              "path": "/ProjectManagement/Administration/My-Task-List.md"
             },
             {
               "text": "my task board",
-              "path": ".md"
+              "path": "/ProjectManagement/Administration/My-Task-Board.md"
             },
             {
               "text": "all task board",
-              "path": ".md"
+              "path": "/ProjectManagement/Administration/All-Task-Board.md"
             },
             {
               "text": "project task tree",
-              "path": ".md"
+              "path": "/ProjectManagement/Administration/Project-Task-Tree.md"
             },
             {
               "text": "project board",
-              "path": ".md"
+              "path": "/ProjectManagement/Administration/Project-Board.md"
             }
-
           ]
         },
         {
@@ -42,42 +41,42 @@
           "items": [
             {
               "text": "Project Items",
-              "path": "Project-Items.md"
+              "path": "/ProjectManagement/Projects/Project-Items.md"
             },
             {
               "text": "all documents",
-              "path": "Project-Document.md"
+              "path":  "/ProjectManagement/Projects/Project-Document.md"
             },
             {
               "text": "all conversation",
-              "path": ".md"
+              "path":  "/ProjectManagement/Projects/Project-Conversation.md"
             },
             {
               "text": "all transmittals",
-              "path": "Project-Transmittal.md"
+              "path": "/ProjectManagement/Projects/Project-Transmittal.md"
             },
             {
               "text": "project tasks",
-              "path": "Project-Task.md"
+              "path": "/ProjectManagement/Projects/Project-Task.md"
             },
             {
               "text": "project items priority",
-              "path": "Project-Item-Priority.md"
+              "path": "/ProjectManagement/Projects/Project-Item-Priority.md"
             },
             {
               "text": "project task sets",
-              "path": "Project-Task-Tree.md"
+              "path": "/ProjectManagement/Projects/Project-Task-Tree.md"
             },
             {
               "text": "personeel operation status",
-              "path": "Personal-Operation-Status.md"
+              "path":"/ProjectManagement/Projects/Personal-Operation-Status.md"
             },
             {
               "text": "search documents"             
             },
             {
               "text": "all task",
-              "path": "All-Task.md"
+              "path": "/ProjectManagement/Administration/All-Task.md"
             }
 
           ]
@@ -90,11 +89,11 @@
               "items": [
                 {
                   "text": "role",
-                  "path": "Role.md"
+                  "path": "/ProjectManagement/Administration/Role.md"
                 },
                 {
                   "text": "user",
-                  "path": "User.md"
+                  "path": "/ProjectManagement/Administration/User.md"
                 }
               ]
             },
@@ -103,20 +102,20 @@
               "items": [
                 {
                   "text": "positions",
-                  "path": "Position.md"
+                  "path": "/ProjectManagement/Administration/Position.md"
 
                 },
                 {
                   "text": "personnels",
-                  "path": "Personnel.md"
+                  "path": "/ProjectManagement/Administration/Personnel.md"
                 },
                 {
                   "text": "personnel users",
-                  "path": "Personnel-User.md"
+                  "path": "/ProjectManagement/Administration/Personnel-User.md"
                 },
                 {
                   "text": "statute",
-                  "path": "ُStatute.md"
+                  "path": "/ProjectManagement/Administration/Statute.md"
                 }
 
               ]
@@ -126,19 +125,19 @@
                 "items": [
                 {
                   "text": "country",
-                  "path": "Country.md"
+                  "path":"/ProjectManagement/Administration/Country.md"
                 },
                 {
                   "text": "state",
-                  "path": "State.md"
+                  "path": "/ProjectManagement/Administration/State.md"
                 },
                 {
                   "text": "city",
-                  "path": "City.md"
+                  "path": "/ProjectManagement/Administration/City.md"
                 },
                 {
                   "text": "regions",
-                  "path": "Region.md"
+                  "path": "/ProjectManagement/Administration/Region.md"
                 }
               ]
             },
@@ -147,19 +146,19 @@
               "items": [
                 {
                   "text": "activity field",
-                  "path": "Activity-Field.md"
+                  "path": "/ProjectManagement/Administration/Activity-Field.md"
                 },
                 {
                   "text": "address type",
-                  "path": "Address-Type.md"
+                  "path": "/ProjectManagement/Administration/Address-Type.md"
                 },
                 {
                   "text": "contact type",
-                  "path": "Contact-Type.md"
+                  "path": "/ProjectManagement/Administration/Contact-Type.md"
                 },
                 {
                   "text": "customer",
-                  "path": "Customer.md"
+                  "path": "/ProjectManagement/Administration/Customer.md"
                 }
               ]
 
@@ -170,15 +169,15 @@
               "items": [
                 {
                   "text": "activity type",
-                  "path": "Activity-Type.md"
+                  "path": "/ProjectManagement/Administration/Activity-Type.md"
                 },
                 {
                   "text": "task type users",
-                  "path": "Task-Type-Users.md"
+                  "path": "/ProjectManagement/Administration/Task-Type-Users.md"
                 },
                 {
                   "text": "action chain templates",
-                  "path": "Action-Chain-Template.md"
+                  "path": "/ProjectManagement/Administration/Action-Chain-Template.md"
                 }
 
 
@@ -190,23 +189,23 @@
               "items": [
                 {
                   "text": "document types",
-                  "path": "Document-Type.md"
+                  "path": "/ProjectManagement/Administration/Document-Type.md"
                 },
 
                 {
                   "text": "project item types",
-                  "path": "Project-Item-Type.md"
+                  "path": "/ProjectManagement/Administration/Project-Item-Type.md"
                 },
                 {
                   "text": "tekla domains",
-                  "path": "Tekla-Domain.md"
+                  "path": "/ProjectManagement/Administration/Tekla-Domain.md"
                 }
 
               ]
             },
             {
               "text": "tag",
-              "path": "Tag.md"
+              "path": "/ProjectManagement/Administration/Tag.md"
             }
           ]
         },
@@ -216,11 +215,11 @@
           "items": [
             {
               "text": "change theme",
-              "path": "Change-Theme.md"
+              "path": "/ProjectManagement/Settings/Change-Theme.md"
             },
             {
               "text": "company information",
-              "path": "Company-Info.md"
+              "path": "/ProjectManagement/Settings/Company-Info.md"
             }
           ]
         },
