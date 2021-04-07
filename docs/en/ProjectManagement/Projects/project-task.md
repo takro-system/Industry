@@ -1,4 +1,4 @@
-# Project Tasks
+# Project Task
 **Note:** Project files and documents in this section are physically stored in the domain path selected in the project.The form fields are described be
 
 * Document Type
