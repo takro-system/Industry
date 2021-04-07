@@ -1,6 +1,9 @@
 ﻿# Industry Documentation
 
-Industry is a **Total System**.
+Project Management is an win application  and development with wpf platform and .net framework 4.8.This reports with [StimulSoft Report](https://www.stimulsoft.com/)
 
-## Getting Started
+These Project Management docs help you learn and use from this software.
+Requirements for using this installation .net 4.8+  on the system where the software will be installed and iis and sql server intalled on the server.
+
+
 
