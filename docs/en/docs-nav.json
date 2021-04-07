@@ -3,7 +3,7 @@
   "items": [
     {
       "text": "Project Management",
-      "path": ".md",
+      "path": "Project-Management.md",
       "items": [
         {
           "text": "dashboard",
@@ -62,7 +62,7 @@
             },
             {
               "text": "project items priority",
-              "path": ".md"
+              "path": "Project-Item-Priority.md"
             },
             {
               "text": "project task sets",
@@ -85,50 +85,46 @@
         },
         {
           "text": "administration",
-          "path": ".md",
           "items": [
             {
-              "text": "user and roles",
-              "path": ".md",
+              "text": "user and roles",             
               "items": [
                 {
                   "text": "role",
-                  "path": ".md"
+                  "path": "Role.md"
                 },
                 {
                   "text": "user",
-                  "path": ".md"
+                  "path": "User.md"
                 }
               ]
             },
             {
-              "text": "personnels",
-              "path": ".md",
+              "text": "personnels",            
               "items": [
                 {
                   "text": "positions",
-                  "path": ".md"
+                  "path": "Position.md"
 
                 },
                 {
                   "text": "personnels",
-                  "path": ".md"
+                  "path": "Personnel.md"
                 },
                 {
                   "text": "personnel users",
-                  "path": ".md"
+                  "path": "Personnel-User.md"
                 },
                 {
                   "text": "statute",
-                  "path": ".md"
+                  "path": "ُStatute.md"
                 }
 
               ]
             },
             {
               "text": "location",
-              "path": ".md",
-              "items": [
+                "items": [
                 {
                   "text": "country",
                   "path": "Country.md"
@@ -168,7 +164,7 @@
                 },
                 {
                   "text": "customer",
-                  "path": ".md"
+                  "path": "Customer.md"
                 }
               ]
 

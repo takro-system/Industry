@@ -1,0 +1,2 @@
+# Position
+**Note:**  Shows different roles for project implementation. For example, if we consider a software company, we can refer to the positions of project manager, programmer, supporter, sales manager, sales staff, analyst, designer , backend programmers , front programmer, managers, etc.
