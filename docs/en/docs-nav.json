@@ -37,7 +37,7 @@
         },
         {
           "text": "project",
-          "path": "Project.md",
+          "path": "/ProjectManagement/Projects/Project.md",
           "items": [
             {
               "text": "Project Items",
@@ -210,8 +210,7 @@
           ]
         },
         {
-          "text": "settings",
-          "path": ".md",
+          "text": "settings",    
           "items": [
             {
               "text": "change theme",
