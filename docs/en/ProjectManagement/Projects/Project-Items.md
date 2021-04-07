@@ -32,7 +32,7 @@ The form fields are described below:
 * Description
   The description of project item.
 
-
+<img alt="project item" class="img-thumbnail" src="../../images/project-item.png" />
 
 * Generate Task   
   Scheduled tasks for project items are specified in this section with base tamplate and displayed in the task list after storage.
@@ -41,4 +41,4 @@ The form fields are described below:
  * Task List   
    In the task form the expected time , assigned to user , serverity ,  project item and etc ... is specified.
 
-
+<img alt="project item list" class="img-thumbnail" src="../../images/project-item-list.png" />

@@ -3,7 +3,7 @@
   "items": [
     {
       "text": "Project Management",
-      "path": "/ProjectManagement/Projects/Project-Management.md",
+      "path": "ProjectManagement/Projects/Project-Management.md",
       "items": [
         {
           "text": "dashboard",
@@ -37,11 +37,11 @@
         },
         {
           "text": "project",
-          "path": "/ProjectManagement/Projects/Project.md",
+          "path": "ProjectManagement/Projects/Project.md",
           "items": [
             {
               "text": "Project Items",
-              "path": "/ProjectManagement/Projects/Project-Items.md"
+              "path": "ProjectManagement/Projects/Project-Items.md"
             },
             {
               "text": "all documents",
