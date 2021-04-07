@@ -11,3 +11,5 @@
 *  TiTle: Project Number , Activity Number.
 *  Assigned To: Task assigned to that user.
 *  DateTime: It is a now data time ;
+
+<img alt="task" class="img-thumbnail" src="../../images/all-task-board.png" />
