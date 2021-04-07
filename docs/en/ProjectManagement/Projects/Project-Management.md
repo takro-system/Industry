@@ -5,7 +5,7 @@ Requirements for using this installation .net 4.8+  on the system where the soft
 
 The following topics will be covered in this section: 
 
-- [Dashboard](Infrastructure-Angular-Npm-Packages)
-- [Administration](Infrastructure-Angular-Angular-CLI-WebPack)
-- [Projects](Infrastructure-Angular-NSwag)
-- [Settings](Infrastructure-Angular-Localization)
+- [Dashboard](Dashboard)
+- [Administration](Administration)
+- [Projects](Projects)
+- [Settings](Settings)
