@@ -1,6 +1,8 @@
 # Project Items
+
 **Note:** Project items that a person or persons are responsible for doing.
 The form fields are described below:
+
 * Item Type
   Select Project Item Type from List. (Project Item Type in Administration/Project/Project Item Type is defined).
 * Document Type
