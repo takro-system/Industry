@@ -7,5 +7,5 @@ Requirements for using this installation .net 4.8+  on the system where the soft
 
 # Getting Started
 
-[Project Management Document] 
+[Project Management Document] (https://docs.takrosystem.ir/en/TakroSystem/latest/Project-Management)
 
