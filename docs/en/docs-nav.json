@@ -7,7 +7,7 @@
       "items": [
         {
           "text": "dashboard",
-          "path": "Dashboard.md",
+          "path": "/ProjectManagement/Administration/Dashboard.md",
           "items": [
             {
               "text": "my to do list",
