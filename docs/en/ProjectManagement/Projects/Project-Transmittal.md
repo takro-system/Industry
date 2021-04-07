@@ -18,6 +18,7 @@
 
    The template of Folders which in Tekla Domain section is specified  with same structure create folders  in Print Folder.
 
+<img alt="project transmittal" class="img-thumbnail" src="../../images/project-transmittal.png" />
 
 
 

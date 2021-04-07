@@ -1,4 +1,4 @@
-# Project Documents
+# Project Tasks
 **Note:** Project files and documents in this section are physically stored in the domain path selected in the project.The form fields are described be
 
 * Document Type
@@ -11,4 +11,4 @@
  * Recipt Time
    The reciept houre for project documents.   
 
-<img alt="project document" class="img-thumbnail" src="../../images/project-document.png" />
+<img alt="project document" class="img-thumbnail" src="../../images/project-task.png" />

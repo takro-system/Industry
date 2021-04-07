@@ -1,3 +1,5 @@
 # All Task
 
 **Note:** All user tasks are displayed and if the task is not related to the project, it will do in  this section. The difference Project Tasks and All Task is that All Task related to all tasks, whether they are project-related or individual tasks that have nothing to do with the project. If the task completed becomes the state Reactive it can turn this task into the state Inprogress that is, the active task.
+
+<img alt="task" class="img-thumbnail" src="../../images/all-task.png" />
