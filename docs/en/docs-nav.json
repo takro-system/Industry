@@ -3,11 +3,11 @@
   "items": [
     {
       "text": "Project Management",
-      "path": "ProjectManagement/Projects/Project-Management.md",
+      "path": "ProjectManagement/Project-Management.md",
       "items": [
         {
           "text": "dashboard",
-          "path": "ProjectManagement/Administration/Dashboard.md",
+          "path": "ProjectManagement/Dashboard.md",
           "items": [
             {
               "text": "my to do list",
