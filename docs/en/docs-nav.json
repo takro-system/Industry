@@ -7,7 +7,7 @@
       "items": [
         {
           "text": "dashboard",
-          "path": ".md",
+          "path": "Dashboard.md",
           "items": [
             {
               "text": "my to do list",
@@ -66,15 +66,14 @@
             },
             {
               "text": "project task sets",
-              "path": ".md"
+              "path": "Project-Task-Tree.md"
             },
             {
               "text": "personeel operation status",
-              "path": ".md"
+              "path": "Personal-Operation-Status.md"
             },
             {
-              "text": "search documents",
-              "path": ".md"
+              "text": "search documents"             
             },
             {
               "text": "all task",
@@ -141,26 +140,22 @@
                   "text": "regions",
                   "path": "Region.md"
                 }
-
-
-
               ]
             },
             {
-              "text": "customers",
-              "path": ".md",
+              "text": "customers",             
               "items": [
                 {
                   "text": "activity field",
-                  "path": ".md"
+                  "path": "Activity-Field.md"
                 },
                 {
                   "text": "address type",
-                  "path": ".md"
+                  "path": "Address-Type.md"
                 },
                 {
                   "text": "contact type",
-                  "path": ".md"
+                  "path": "Contact-Type.md"
                 },
                 {
                   "text": "customer",
@@ -231,8 +226,7 @@
         },
         {
           "text": "Change logs",
-          "path": ".md",
-          "items": [
+           "items": [
             {
 
               "text": "v 1.0.0.13 (2021-03-04)",
