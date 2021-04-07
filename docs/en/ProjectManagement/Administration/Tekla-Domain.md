@@ -12,4 +12,4 @@ If a project is defined, it is not possible to delete or change the file path.
 
   The structure of the files is defined According to the figure below
 
-  <img alt="template folder" source="" class="img-thumbnail" src="images/TemplateFolder.png" />
+  <img alt="template folder" source="" class="img-thumbnail" src="../../images/TemplateFolder.png" />
