@@ -5,7 +5,7 @@ Requirements for using this installation .net 4.8+  on the system where the soft
 
 The following topics will be covered in this section: 
 
-- [Dashboard](Dashboard)
-- [Administration](Administration)
-- [Projects](Projects)
+- [Dashboard](Administraion/Dashboard)
+- [Administration](Administration/Administration)
+- [Projects](Projects/Projects)
 - [Settings](Settings)

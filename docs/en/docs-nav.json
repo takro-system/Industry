@@ -11,27 +11,27 @@
           "items": [
             {
               "text": "my to do list",
-              "path": "ProjectManagement/Administration/My-To-Do-List.md"
+              "path": "ProjectManagement/Dashboard/My-To-Do-List.md"
             },
             {
               "text": "my tasks list",
-              "path": "ProjectManagement/Administration/My-Task-List.md"
+              "path": "ProjectManagement/Dashboard/My-Task-List.md"
             },
             {
               "text": "my task board",
-              "path": "ProjectManagement/Administration/My-Task-Board.md"
+              "path": "ProjectManagement/Dashboard/My-Task-Board.md"
             },
             {
               "text": "all task board",
-              "path": "ProjectManagement/Administration/All-Task-Board.md"
+              "path": "ProjectManagement/Dashboard/All-Task-Board.md"
             },
             {
               "text": "project task tree",
-              "path": "ProjectManagement/Administration/Project-Task-Tree.md"
+              "path": "ProjectManagement/Dashboard/Project-Task-Tree.md"
             },
             {
               "text": "project board",
-              "path": "ProjectManagement/Administration/Project-Board.md"
+              "path": "ProjectManagement/Dashboard/Project-Board.md"
             }
           ]
         },
