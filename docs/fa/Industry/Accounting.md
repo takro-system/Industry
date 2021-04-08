@@ -1,6 +1,3 @@
 
-
-shabnam lashkary
-
 منوی حسابداری
 
