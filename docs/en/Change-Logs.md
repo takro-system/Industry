@@ -14,4 +14,9 @@ The image below shows the version number and Its date:
 
 * Remove the Phones tab for personal customers becase contacts tab is availabe for personal customers and it is only for comapny customers
 
+## 1.0.0.15 (2021-15-04)
 
+* Add tag to document files in project document form.
+* Change folder template in tekla setting form.
+* Add project folder setting to project form.
+* Enhancements and bug fixes
