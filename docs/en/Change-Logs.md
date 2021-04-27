@@ -20,3 +20,9 @@ The image below shows the version number and Its date:
 * Change folder template in tekla setting form.
 * Add project folder setting to project form.
 * Enhancements and bug fixes
+
+## 1.0.0.20 (2021-27-04)
+* Add description and phase to dproject transmittal item.
+* add file repository to administraion section.
+* add combine pdf documents in project transmittal form.
+* Enhancements and bug fixes
